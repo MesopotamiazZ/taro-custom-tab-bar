@@ -1,0 +1,16 @@
+.navbar-wrap {
+  display: flex;
+  height: 88px;
+  line-height: 88px;
+  background-color: lightpink;
+  padding: 0 20px;
+  .navbar-left {
+    width: 100px;
+  }
+  .navbar-content {
+    flex: 1;
+  }
+  .navbar-right {
+    width: 100px;
+  }
+}
