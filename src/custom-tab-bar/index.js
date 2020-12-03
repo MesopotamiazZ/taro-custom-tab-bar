@@ -10,11 +10,13 @@ export default memo(() => {
       url: '/pages/index/index',
       icon: '',
       text: '首页',
+      // index: 0,
     },
     {
       url: '/pages/personal/index',
       icon: '',
       text: '我的',
+      // index: 1,
     },
   ])
 
